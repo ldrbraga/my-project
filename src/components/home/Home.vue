@@ -17,6 +17,7 @@ export default {
 <style lang="scss">
 * {
   margin: 0;
+  font-family: Helvetica, Sans-Serif;
 }
 .title {
   height: 100vh;
