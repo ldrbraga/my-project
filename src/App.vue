@@ -5,16 +5,18 @@
 </template>
 
 <script>
-export default {
-  
-}
+export default {};
 </script>
 
 <style lang="scss">
-  .container {
-    width: 80%;
-    margin: 0 auto;
-  }
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap");
+
+* {
+  margin: 0;
+  font-family: "Roboto Mono", "", sans-serif;
+  background-color: #161618;
+  color: #fff;
+}
 </style>
 
 
